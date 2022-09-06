@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INVENTARIO MENU 1", "INVENTARIO MENU 1\INVENTARIO MENU 1.csproj", "{05454E62-84C7-4C6A-AA85-EAD6E53C599B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05454E62-84C7-4C6A-AA85-EAD6E53C599B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05454E62-84C7-4C6A-AA85-EAD6E53C599B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05454E62-84C7-4C6A-AA85-EAD6E53C599B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05454E62-84C7-4C6A-AA85-EAD6E53C599B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC8CD065-DCE5-46A0-8240-66357AF3E9F5}
+	EndGlobalSection
+EndGlobal
